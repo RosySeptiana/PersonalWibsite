@@ -1,0 +1,50 @@
+/* Style untuk elemen header */
+header {
+    background-color: #25a0a8;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style untuk elemen judul utama */
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+.bio {
+    background-color: #cfcfcf;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Style untuk elemen subjudul */
+h2 {
+    font-size: 24px;
+}
+
+/* Style untuk elemen paragraf teks */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Style untuk footer */
+footer {
+    background-color: #25a0a8;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Style untuk tautan (link) */
+a {
+    color: #25a0a8;
+    text-decoration: none;
+}
+
+/* Hover effect untuk tautan (link) */
+a:hover {
+    text-decoration: underline;
+}
